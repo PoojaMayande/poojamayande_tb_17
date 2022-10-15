@@ -6,7 +6,7 @@ public class Demo
 	{
 		System.out.println("Hellow GIT");
 		System.out.println("NOW Commited");
-		
+		System.out.println("Now Pull");
 	}
 
 }
