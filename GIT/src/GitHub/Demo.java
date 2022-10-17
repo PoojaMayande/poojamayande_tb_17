@@ -20,7 +20,7 @@ public class Demo
 		
 		
 		System.out.println("changes kahipn");
-		System.out.println("changes from Eclipseghgyjgkj");
+		System.out.println("changes from Eclipe");
 	}
 
 }
