@@ -9,7 +9,14 @@ public class Demo
 		System.out.println("Now Pull");
 		System.out.println("hello pooja i am suyash");
 		
+//<<<<<<< HEAD
 		System.out.println("Hello how are you!");
+//=======
+		System.out.println("Now branch1");
+		System.out.println("created by pooja");
+		
+		System.out.println("changes from eclipse");
+//>>>>>>> branch 'master' of https://github.com/PoojaMayande/poojamayande_tb_17.git
 	}
 
 }
